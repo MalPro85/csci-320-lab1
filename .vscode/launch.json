@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mal/Desktop/csci-320-lab1",
+      "program": "/Users/mal/Desktop/csci-320-lab1/build/Debug/outDebug"
+    }
+  ]
+}

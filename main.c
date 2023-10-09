@@ -19,10 +19,10 @@ int main(int argc, char** argv)
     
     str = readString(argv[1]);
     if (str != NULL){
-        explodedString = mysteryExplode(str);
+    //    explodedString = mysteryExplode(str);
     }
     
-    printf("%s --> %s\n",str,explodedString);
+    //printf("%s --> %s\n",str,explodedString);
     
     free(str);
     free(explodedString);
